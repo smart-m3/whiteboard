@@ -1,0 +1,5 @@
+# Service description file
+[D-BUS Service]
+Name=com.nokia.whiteboard
+#Exec=@bindir@/whiteboardd
+Exec=@prefix@/bin/whiteboardd

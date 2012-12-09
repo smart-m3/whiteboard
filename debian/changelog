@@ -1,0 +1,45 @@
+whiteboard (2.0-beta1) karmic; urgency=low
+
+  * Another beta release.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Thu, 15 Apr 2010 09:04:21 +0300
+
+whiteboard (2.0-beta0) karmic; urgency=low
+
+  *  Still beta-release.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Wed, 24 Feb 2010 13:26:53 +0200
+
+whiteboard (2.0pre1) karmic; urgency=low
+
+  * New release, fixes many bugs from 2.0pre.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Fri, 16 Oct 2009 15:46:45 +0300
+
+whiteboard (2.0pre) unstable; urgency=low
+
+  * Pre-release of 2.0 version.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Wed,  6 May 2009 13:53:43 +0200
+
+whiteboard (1.1) unstable; urgency=low
+
+  * Updated to version 1.1.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Thu,  4 Dec 2008 15:18:43 +0200
+
+whiteboard (1.0) unstable; urgency=low
+
+  * First release.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Fri, 18 Jul 2008 12:44:53 +0300
+
+whiteboard (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Hannu Laine <hannu.e.laine@nokia.com>  Thu, 23 Mar 2007 14:23:41 +0200
+
+Local variables:
+mode: debian-changelog
+End:
