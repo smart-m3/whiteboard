@@ -7,6 +7,7 @@ License: GPLv3
 URL: https://github.com/smart-m3/
 Source0: whiteboard-1.0.tar.bz2
 BuildRoot: %{_tmppath}/whiteboard-root
+BuildRequires: libwhiteboard >= 1.0
 
 %description
 
