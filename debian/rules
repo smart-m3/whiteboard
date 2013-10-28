@@ -31,7 +31,7 @@ config.status: configure
 				       --prefix=/usr \
 				       --mandir=\$${prefix}/share/man \
 				       --infodir=\$${prefix}/share/info \
-				       --with-debug
+#				       --with-debug
 
 
 build: build-stamp
